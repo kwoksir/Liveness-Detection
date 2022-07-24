@@ -4,4 +4,4 @@
 
 ## Reference
 - [Face Liveness Detection Via OpenCV And Tensorflow](https://kickertech.com/face-liveness-detection-via-opencv-and-tensorflow/)
-- [Liveness Detection with OpenCV] (https://pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/)
+- [Liveness Detection with OpenCV](https://pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/)
